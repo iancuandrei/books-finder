@@ -21,3 +21,9 @@ cd books-finder && npm install && npm run build-start
 - Node.js
 - TypeScript
 - Puppeteer
+
+## Possible Improvements
+
+- Make sure that the picked book on Amazon is the right one. Check if the title and the author are the same by looking in the html elements that contain them.
+- Right now I'm assuming that the paperback version of the book is in stock. We can check if the paperback version is in stock and if it isn't, check the other versions (hardcover, kindle, audiobook).
+- If the paperback version isn't in stock, the "buy now" button might change, so that needs to be addressed.
