@@ -1,7 +1,6 @@
 # Books Finder
 
 Choose a genre and a random book will be picked and added to your shopping cart on Amazon.
-The app was developed and tested on Ubuntu WSL 2 running on Windows 11.
 
 ## Usage
 
@@ -16,6 +15,8 @@ Start app
 ```bash
 cd books-finder && npm install && npm run build-start
 ```
+
+The app was developed and tested on Ubuntu WSL 2 running on Windows 11.
 
 ## Technologies Used
 
