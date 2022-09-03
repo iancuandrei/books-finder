@@ -7,7 +7,7 @@ Choose a genre and a random book will be picked and added to your shopping cart 
 Clone repository
 
 ```bash
-git clone git@github.com:iancuandrei/books-picker.git
+git clone git@github.com:iancuandrei/books-finder.git
 ```
 
 Compile and start the script
