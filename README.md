@@ -7,13 +7,13 @@ Choose a genre and a random book will be picked and added to your shopping cart 
 Clone repository
 
 ```bash
-git clone git@github.com:iancuandrei/books-finder.git
+git clone https://github.com/iancuandrei/books-finder.git
 ```
 
-Compile and start the script
+Start app
 
 ```bash
-cd books-finder && npm run build-start
+cd books-finder && npm install && npm run build-start
 ```
 
 ## Technologies Used
